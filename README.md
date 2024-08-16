@@ -8,6 +8,6 @@ The methodology included balancing class distribution, tokenizing texts with BER
 The model achieved an overall accuracy of 51.4% on the test set and 50.5% on the validation set. It performed best in the "No distortion" and "Blaming" categories. However, it struggled with "Overgeneralization" and "Personalization," indicating a need for further optimization and more training data. The project was developed using Python in Google Colab.
 
 ## Repository Structure
-
-
-Paper: [https://www.overleaf.com/project/665b79335705676605dade53](https://www.overleaf.com/read/drwfyyvfxmjh#da61a7)
+* `codes`: Contains the code for dataset preprocessing and multilabel model training.
+* `dataset`: Contains the datasets used for this project.
+* `paper`: Link to the project's paper.
